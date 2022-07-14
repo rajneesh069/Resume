@@ -1,0 +1,133 @@
+{
+    "basics": {
+        "name": "Rajneesh Mishra",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2056@iiitkota.ac.in",
+        "phone": "+916386003647",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication Engineering. I am interested in Web Development.",
+        "location": {
+            "address": "Gonda",
+            "postalCode": "271001",
+            "city": "Gonda",
+            "countryCode": "India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "rajneesh6386",
+                "url": "https://www.twitter.com/rajneesh6386"
+            },
+            {
+                "network": "Github",
+                "username": "rajneesh069",
+                "url": "https://www.github.com/rajneesh069"
+            },
+            {
+                "network": "linkedin",
+                "username": "rajneesh69",
+                "url": "www.linkedin.com/in/rajneesh69"
+            },
+            {
+                "network": "Instagram",
+                "username": "rajneeshmishra1609",
+                "url": "https://instagram.com/rajneeshmishra1609"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "IIIT Kota",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.2",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "",
+            "keywords": [
+                "",
+                ""
+            ]
+        }
+    ]
+}
